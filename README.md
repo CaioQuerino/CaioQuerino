@@ -41,4 +41,6 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 - **[LinkedIn](inkedin.com/caio-querino-1257622a5/)**: Vamos nos conectar e explorar possíveis colaborações.
 - **[GitHub](https://github.com/CaioQuerino)**: Veja meus repositórios para conferir meus projetos e contribuições.
 - **[Portfólio](https://www.dio.me/users/caioquerino)**: Acesse também meu portfólio.
+- **[Repositório](https://github.com/CaioQuerino?tab=repositories&q=&type=public&language=&sort=)**: Veja meu repositório
+
 
