@@ -22,7 +22,9 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 ## Experiências e Projetos
 
 - **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-iac):** Este projeto consiste em scripts Bash para automatizar a criação de uma infraestrutura de diretórios, grupos, usuários e permissões no Linux. O objetivo é facilitar o provisionamento de ambientes em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente..
-- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto2-iac):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux. O objetivo é facilitar o provisionamento de um ambiente web em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente.
+- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-pas):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux. O objetivo é facilitar o provisionamento de um ambiente web em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente.
+
+- **[Projeto de PaaS](https://github.com/CaioQuerino/linux-projeto3-pas)**
 
 ## Educação
 
