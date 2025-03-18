@@ -2,13 +2,16 @@
 
 ## Sobre Mim
 
-Desenvolvedor Front-End com experiência na criação de interfaces de usuário responsivas e interativas utilizando tecnologias modernas. Sou proficiente em **HTML5, CSS3, JavaScript**, e **Bootstrap**, e uso ferramentas como **Figma** para design UI/UX.
+Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, especializado em criar interfaces de usuário responsivas e APIs RESTful eficientes. Proficiente em JavaScript, TypeScript, HTML5, CSS3, e bancos de dados SQL/NoSQL. Experiência com ferramentas de versionamento como Git e práticas de CI/CD. Comprometido com a entrega de soluções de alta qualidade e com a aprendizagem contínua de novas tecnologias. Habilidade comprovada em trabalhar em equipes ágeis e multidisciplinares, com forte foco na resolução de problemas e na melhoria contínua.
 
 ## Minhas Habilidades
 
-- **Front-End Development:** | HTML5 | CSS3 | JavaScript | Bootstrap | React.JS |
+- **Front-End Development:** | HTML5 | CSS3 | JavaScript | React.JS |
 - **Design UI/UX:** Figma
 - **Controle de Versão:** Git e GitHub
+
+## Soft Skills
+- **Linux:** | Shell Script | IaaS | PaaS | Servidor Web com Linux | Servidor de Banco de Dados com Linux |
 
 
 ## Interesses
@@ -18,8 +21,8 @@ Desenvolvedor Front-End com experiência na criação de interfaces de usuário 
 
 ## Experiências e Projetos
 
-- **[Projeto de Interface Responsiva](https://caioquerino.github.io/mangas/):** Desenvolvimento de uma interface de usuário responsiva.
-- **[Aplicativo Web Interativo](https://caioquerino.github.io/encontre-whatsapp/):** Criação de um aplicativo web interativo com foco na experiência do usuário.
+- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-iac):** Este projeto consiste em scripts Bash para automatizar a criação de uma infraestrutura de diretórios, grupos, usuários e permissões no Linux. O objetivo é facilitar o provisionamento de ambientes em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente..
+- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto2-iac):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux. O objetivo é facilitar o provisionamento de um ambiente web em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente.
 
 ## Educação
 
@@ -36,6 +39,6 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 ## Conecte-se Comigo
 
 - **[LinkedIn](inkedin.com/caio-querino-1257622a5/)**: Vamos nos conectar e explorar possíveis colaborações.
-- **[GitHub](https://github.com/in/CaioQuerino)**: Veja meus repositórios para conferir meus projetos e contribuições.
-- **[Portfólio](https://caioquerino.github.io/portfolio-caio/#habilidades)**: Acesse também meu portfólio.
+- **[GitHub](https://github.com/CaioQuerino)**: Veja meus repositórios para conferir meus projetos e contribuições.
+- **[Portfólio](https://www.dio.me/users/caioquerino)**: Acesse também meu portfólio.
 
