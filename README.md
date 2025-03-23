@@ -11,7 +11,7 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 - **Design UI/UX:** Figma
 - **Controle de Versão:** Git e GitHub
 
-## Soft Skills
+## Hard Skills
 - **Linux:** | Shell Script | IaaS | PaaS | Servidor Web com Linux | Servidor de Banco de Dados com Linux |
 
 
