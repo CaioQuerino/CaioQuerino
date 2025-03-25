@@ -27,6 +27,7 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 
 - **[Projeto de PaaS](https://github.com/CaioQuerino/linux-projeto3-pas):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux, incluindo a instalação do Apache, Node.js, e a implantação de uma aplicação web. O objetivo é facilitar o provisionamento de um ambiente web completo, desde a instalação dos pacotes necessários até a implantação da aplicação.
 - **[Projeto de SASS](https://github.com/CaioQuerino/projeto-sass-1):** Projeto realizado utilizando SASS para treinar alguns conceitos básicos como **variáveis**, **mixins**, **nesting**
+- **[Projeto React + SASS](https://github.com/CaioQuerino/ToDoList/tree/main):** Projeto de Lista de tarefas simples.
 
 ## Educação
 
