@@ -6,7 +6,7 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 
 ## Minhas Habilidades
 
-- **Front-End Development:** | HTML5 | CSS3 | SASS e SCSS | JavaScript | React.JS | TS | E2E |
+- **Front-End Development:** | HTML5 | CSS3 | SASS e SCSS | JavaScript | React.JS | TS |
 - **Back-End Development:** | MySQL | PostgreSQL |
 - **Design UI/UX:** Figma
 - **Controle de Versão:** | Git | GitHub |
