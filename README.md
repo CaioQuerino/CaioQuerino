@@ -12,7 +12,7 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 - **Controle de Versão:** | Git | GitHub |
 
 ## Hard Skills
-- **Linux:** | Shell Script | IaaS | PaaS | SaaS | Servidor Web com Linux | Servidor de Banco de Dados com Linux |
+- **Linux:** | Shell Script | Servidor Web com Linux | Servidor de Banco de Dados com Linux |
 
 
 ## Interesses
