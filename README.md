@@ -8,7 +8,6 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 
 - **Front-End Development:** | HTML5 | CSS3 | SASS e SCSS | JavaScript | React.JS | TS |
 - **Back-End Development:** | MySQL | PostgreSQL |
-- **Design UI/UX:** Figma
 - **Controle de Versão:** | Git | GitHub |
 
 ## Hard Skills
@@ -22,13 +21,13 @@ Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, espec
 
 ## Experiências e Projetos
 
-- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-iac):** Este projeto consiste em scripts Bash para automatizar a criação de uma infraestrutura de diretórios, grupos, usuários e permissões no Linux. O objetivo é facilitar o provisionamento de ambientes em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente..
+- **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-iac):** Este projeto consiste em scripts Bash para automatizar a criação de uma infraestrutura de diretórios, grupos, usuários e permissões no Linux. O objetivo é facilitar o provisionamento de ambientes em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente.
 - **[Projeto de IaaS](https://github.com/CaioQuerino/linux-projeto1-pas):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux. O objetivo é facilitar o provisionamento de um ambiente web em máquinas virtuais ou servidores Linux, garantindo que toda a estrutura necessária seja criada de forma rápida e consistente.
 
 - **[Projeto de PaaS](https://github.com/CaioQuerino/linux-projeto3-pas):** Este projeto consiste em scripts Bash para automatizar a configuração de um servidor web no Linux, incluindo a instalação do Apache, Node.js, e a implantação de uma aplicação web. O objetivo é facilitar o provisionamento de um ambiente web completo, desde a instalação dos pacotes necessários até a implantação da aplicação.
 - **[Projeto de SASS](https://github.com/CaioQuerino/projeto-sass-1):** Projeto realizado utilizando SASS para treinar alguns conceitos básicos como **variáveis**, **mixins**, **nesting**
 - **[Projeto React + SASS](https://github.com/CaioQuerino/ToDoList/tree/main):** Projeto de Lista de tarefas simples.
-- **[Projeto React + SASS (Landing Page)](https://github.com/CaioQuerino/mp-landing-page-meow-cafe):** Landing Page da Meow café.
+
 
 ## Educação
 
