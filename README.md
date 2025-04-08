@@ -4,13 +4,12 @@
 
 Desenvolvedor Full Stack com 2 anos de experiência em React.js e Node.js, especializado em criar interfaces de usuário responsivas e APIs RESTful eficientes. Proficiente em JavaScript, TypeScript, HTML5, CSS3, e bancos de dados SQL/NoSQL. Experiência com ferramentas de versionamento como Git e práticas de CI/CD. Comprometido com a entrega de soluções de alta qualidade e com a aprendizagem contínua de novas tecnologias. Habilidade comprovada em trabalhar em equipes ágeis e multidisciplinares, com forte foco na resolução de problemas e na melhoria contínua.
 
-## Minhas Habilidades
+## Hard Skills
 
 - **Front-End Development:** | HTML5 | CSS3 | SASS e SCSS | JavaScript | React.JS | TS |
-- **Back-End Development:** | MySQL | PostgreSQL |
+- **Back-End Development:** | MySQL | PostgreSQL | Modelagem de dados | Node.JS |
 - **Controle de Versão:** | Git | GitHub |
 
-## Hard Skills
 - **Linux:** | Shell Script | Servidor Web com Linux | Servidor de Banco de Dados com Linux |
 
 
