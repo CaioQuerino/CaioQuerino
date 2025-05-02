@@ -8,7 +8,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
@@ -57,7 +57,9 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 
 ## Estatísticas do GitHub
 
-![Caio Querino's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU-USUARIO&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioQuerino&langs_count=10&layout=donut&theme=radical)
+![Linguagens Mais Usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=CaioQuerino&layout=compact&langs_count=8&theme=radical)
+
 
 ---
 
@@ -65,4 +67,3 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 
 - [LinkedIn](https://www.linkedin.com/in/caio-querino-1257622a5/)
 - [GitHub](https://github.com/CaioQuerino)
-
