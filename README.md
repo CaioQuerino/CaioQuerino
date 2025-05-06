@@ -4,7 +4,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 - 💻 Meu primeiro contato com programação foi em 2024.  
 - 🚀 Após conhecer algumas tecnologias, decidi seguir na área de T.I.  
-- 📌 Atualmente estou dando prioridade para estas linguagens backend, mas também sei front end:
+- 📌 Atualmente estou dando prioridade para estas linguagens backend, mas também sei frontend:
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.JS"/>
