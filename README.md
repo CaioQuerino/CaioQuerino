@@ -67,7 +67,8 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 ---
 
 ## Certificados
-
+- [Desenvolvimento de Software para Internet (Front-end)](https://www.unisuam.edu.br/documento-online/0070-0006b5f-003bf8f)
+- [Desenvolvimento de Software para Internet (Back-end)](https://www.unisuam.edu.br/documento-online/0070-0006b60-003bf8f)
 - [O básico de Git e GitHub](https://app.rocketseat.com.br/certificates/69aa544b-3252-4f40-9506-3ffd1f52ddc6)
 - [Fundamentos de HTML e CSS](https://app.rocketseat.com.br/certificates/6555a203-cb1d-426a-886d-88b0575eee4d)
 - [JavaScript](https://app.rocketseat.com.br/certificates/5d72da2d-475e-4773-93c8-6b9399cc9873)
