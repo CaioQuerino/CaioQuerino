@@ -29,7 +29,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
   <a href="mailto:caio.querino.react@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
-  <a href="https://github.com/CaioQuerino/" target="_blank">
+  <a href="https://caioquerino.github.io/portfolio-backend/" target="_blank">
     <img src="https://img.shields.io/badge/Portfólio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfólio"/>
   </a>
 </p>
