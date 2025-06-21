@@ -39,7 +39,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 ## Confira meus repositórios favoritos!
 
-- [Projeto de CRUD com NodeJS +  Insomnia](https://www.linkedin.com/posts/caio-querino-1257622a5_nodejs-backend-api-activity-7322089565941321728-LNMR?utm_source=share&utm_medium=member_desktop&rcm=ACoAAEmd2C0BIDICRMgmQapkiNaBmz0bEuEguKI)
+- [API de Blog Pessoal](https://github.com/CaioQuerino/api-de-blog-pessoal)
 - [Projeto de CRUD com NodeJS](https://github.com/CaioQuerino/1_crud_basico)
 - [Projeto de RESTful API com NodeJS](https://github.com/CaioQuerino/API-s)
 - [Projeto RESTful API com Fastify, NextJS, Zod, Prisma e Docker](https://github.com/CaioQuerino/projeto-anka-tech)
