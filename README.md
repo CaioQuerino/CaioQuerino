@@ -40,10 +40,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 ## Confira meus repositórios favoritos!
 
 - [API de Blog Pessoal](https://github.com/CaioQuerino/api-de-blog-pessoal)
-- [Projeto de CRUD com NodeJS](https://github.com/CaioQuerino/1_crud_basico)
-- [Projeto de RESTful API com NodeJS](https://github.com/CaioQuerino/API-s)
-- [Projeto RESTful API com Fastify, NextJS, Zod, Prisma e Docker](https://github.com/CaioQuerino/projeto-anka-tech)
-- [Projeto com NextJS](https://github.com/CaioQuerino/Task-Manager)
+- [Servidor com Docker](https://github.com/CaioQuerino/SERVIDOR-DOCKER-API)
 
 
 ---
