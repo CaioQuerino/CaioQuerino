@@ -41,6 +41,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 - [API de Blog Pessoal](https://github.com/CaioQuerino/api-de-blog-pessoal)
 - [Servidor com Docker](https://github.com/CaioQuerino/SERVIDOR-DOCKER-API)
+- [Task Manager](https://github.com/CaioQuerino/Task-Manager)
 
 
 ---
