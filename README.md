@@ -43,6 +43,10 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 - [Servidor com Docker](https://github.com/CaioQuerino/SERVIDOR-DOCKER-API)
 - [Task Manager](https://github.com/CaioQuerino/Task-Manager)
 
+## Estudando Micro-Frontends
+
+- [Micro-frontends (registro, login e dashboard)](https://github.com/CaioQuerino/micro-frontends-autenticacao-login-dashboard)
+_Em andamento_
 
 ---
 
