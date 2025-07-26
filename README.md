@@ -4,7 +4,12 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 - 💻 Meu primeiro contato com programação foi em 2024.  
 - 🚀 Após conhecer algumas tecnologias, decidi seguir na área de T.I.  
-- 📌 Atualmente estou dando prioridade para estas linguagens backend, mas também sei frontend:
+- 📌 Atualmente estou dando prioridade para estas linguagens backend, mas também sei frontend
+
+## Soft Skills 
+- Proatividade
+- Boa comunicação
+- Aprendizado contínuo
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.JS"/>
@@ -44,11 +49,6 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 - [Servidor com Docker](https://github.com/CaioQuerino/SERVIDOR-DOCKER-API)
 - [Task Manager](https://github.com/CaioQuerino/Task-Manager)
 
-## Estudando Micro-Frontends
-
-- [Micro-frontends (registro, login e dashboard)](https://github.com/CaioQuerino/micro-frontends-autenticacao-login-dashboard)
-_Em andamento_
-
 ---
 
 ## Educação
@@ -75,6 +75,7 @@ Estou em busca de oportunidades para aplicar e expandir minhas habilidades, cont
 ## Certificados
 - [Desenvolvimento de Software para Internet (Front-end)](https://www.unisuam.edu.br/documento-online/0070-0006b5f-003bf8f)
 - [Desenvolvimento de Software para Internet (Back-end)](https://www.unisuam.edu.br/documento-online/0070-0006b60-003bf8f)
+- [INFRAESTRUTURA E ARQUITETURAS PARA SUPORTE AS APLICAÇÕES](https://www.unisuam.edu.br/documento-online/0070-0006b63-003bf8f)
 - [O básico de Git e GitHub](https://app.rocketseat.com.br/certificates/69aa544b-3252-4f40-9506-3ffd1f52ddc6)
 - [Fundamentos de HTML e CSS](https://app.rocketseat.com.br/certificates/6555a203-cb1d-426a-886d-88b0575eee4d)
 - [JavaScript](https://app.rocketseat.com.br/certificates/5d72da2d-475e-4773-93c8-6b9399cc9873)
