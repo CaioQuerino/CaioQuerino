@@ -11,6 +11,8 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 - Boa comunicação
 - Aprendizado contínuo
 
+---
+  
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.JS"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
