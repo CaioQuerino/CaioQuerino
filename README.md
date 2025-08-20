@@ -48,7 +48,7 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 ## Confira meus repositórios favoritos!
 
 - [API de Blog Pessoal](https://github.com/CaioQuerino/api-de-blog-pessoal)
-- [Servidor com Docker](https://github.com/CaioQuerino/SERVIDOR-DOCKER-API)
+- [Pet Shop](https://github.com/CaioQuerino/Pet_Shop_2.0)
 - [Task Manager](https://github.com/CaioQuerino/Task-Manager)
 
 ---
