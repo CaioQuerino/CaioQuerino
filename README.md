@@ -2,7 +2,7 @@
 
 Atualmente estou cursando o ensino superior com foco em tecnologia.
 
-- 💻 Meu primeiro contato com programação foi em 2024.  
+- 💻 Meu primeiro contato com programação foi em 2010.  
 - 🚀 Após conhecer algumas tecnologias, decidi seguir na área de T.I.  
 - 📌 Atualmente estou dando prioridade para estas linguagens backend, mas também sei frontend
 
