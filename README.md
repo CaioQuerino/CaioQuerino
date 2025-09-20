@@ -12,13 +12,14 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 - Aprendizado contínuo
 
 ---
-  
+
+## Hard Skills
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.JS"/>
+ <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="40" alt="React.JS"/>-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="MySQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/prisma/prisma-original.svg" width="40" alt="prisma"/>
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="40" alt="PostgreSQL"/>-->
+  <!--<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="40" alt="PHP"/>-->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" width="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" width="40" alt="Express.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sequelize/sequelize-original.svg" width="40" alt="Sequelize"/>
@@ -56,14 +57,14 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 ## Educação
 
-🎓 **Superior de Tecnologia em Gestão da Tecnologia da Informação**  
+🎓 **Superior em Análise e Desenvolvimento de Sistemas**  
 _Em andamento_
 
 ---
 
 ## Objetivos
 
-Estou em busca de oportunidades para aplicar e expandir minhas habilidades, contribuindo para o sucesso de projetos inovadores e impactantes.
+Estou em busca de oportunidades para aplicar e expandir minhas habilidades com POO, contribuindo para o sucesso de projetos inovadores e impactantes.
 
 ---
 
