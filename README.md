@@ -22,6 +22,9 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="40" alt="sqlite"/> 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" width="40" alt="Docker"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="40" alt="git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="40" alt="HTML"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40" alt="CSS"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="40" alt="JavaScript"/>
 </p>
 
 ---
@@ -45,9 +48,9 @@ Atualmente estou cursando o ensino superior com foco em tecnologia.
 
 ## Confira meus repositórios favoritos!
 
-- [Repositório Java](https://github.com/CaioQuerino/projetos_java)
+- [Repositórios](https://github.com/CaioQuerino?tab=repositories)
 - [API de Blog Pessoal](https://github.com/CaioQuerino/api-de-blog-pessoal)
-- [Pet Shop](https://github.com/CaioQuerino/Pet_Shop_2.0)
+- [Task (API JAVA)](https://github.com/CaioQuerino/Task)
 - [DevLink](https://caioquerino.github.io/caio-dev-link/)
 
 ---
@@ -61,7 +64,7 @@ _Em andamento_
 
 ## Objetivos
 
-Estou em busca de oportunidades para aplicar e expandir minhas habilidades com POO, contribuindo para o sucesso de projetos inovadores e impactantes.
+Estou sempre buscando aprender e me adaptar a novas tecnologias e tendências do mercado. Atualmente, meus estudos estão focados em Java. Meu objetivo é entregar soluções eficientes e que agreguem valor.Possuo sólida aplicação de Design Patterns, Arquitetura em Camadas, Princípios de Responsabilidade Única (SOLID) e boas práticas na construção de APIs REST. Tenho familiaridade com metodologias ágeis, como Scrum e Kanban, e experiência em serviços de cloud, utilizando a AWS (especificamente EC2, S3, Route 53, RDS, ECS e EKS) para deploy e operação de aplicações.Competências Adicionais:Versionamento de Código, Desenvolvimento e Integração de APIs, Deploy em Cloud.
 
 ---
 
