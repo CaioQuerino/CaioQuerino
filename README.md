@@ -80,4 +80,5 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou focado na co
 
 | Projeto | Status | Deploy |
 |----------|--------|---------|
-| Portal NEXORA | ✅ Desenvolvimento em produção | [Link](portalnexora.vercel.app) |
+| Inecs | ✅ Produção | [Link](https://inecs.vercel.app/) |
+| Portal NEXORA | ✅ Desenvolvimento em produção | [Link](https://portalnexora.vercel.app) |
