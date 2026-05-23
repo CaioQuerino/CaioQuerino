@@ -82,3 +82,4 @@ Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou focado na co
 |----------|--------|---------|
 | INECS | ✅ Produção | [Link](https://inecs.vercel.app/) |
 | Portal NEXORA | ✅ Desenvolvimento em produção | [Link](https://portalnexora.vercel.app) |
+| Guardiões Digitais | ✅ Produção | [Link](https://smartglass-app.vercel.app/) |
