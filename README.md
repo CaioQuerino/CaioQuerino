@@ -1,6 +1,6 @@
 # 👋 Olá, eu sou Caio Querino
 
-## Se quiser tirar seu projeto do papel pergunte, "qual o meu pix?" é vamos trabalhar.
+## Se quiser tirar seu projeto do papel pergunte, "qual o seu pix?" é vamos trabalhar.
 
 > 💻 Software Engineer Backend | Java, Node.js & Data Pipelines (AWS/Spark).
 
