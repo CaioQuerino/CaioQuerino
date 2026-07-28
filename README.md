@@ -1,5 +1,7 @@
 # 👋 Olá, eu sou Caio Querino
 
+## Se quiser tirar seu projeto do papel pergunte, "qual o meu pix?" é vamos trabalhar.
+
 > 💻 Software Engineer Backend | Java, Node.js & Data Pipelines (AWS/Spark).
 
 Atualmente curso **Análise e Desenvolvimento de Sistemas** e estou focado na construção de soluções modernas, escaláveis e voltadas para problemas reais.
